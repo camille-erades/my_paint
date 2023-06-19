@@ -1,0 +1,19 @@
+PROJET : my_paint
+
+how to use :
+
+clic on the "my_paint" page on the
+top of your screen and use
+left clic to draw
+
+in the menu page, interact as follow :
+----------
+clic [FILE] to save, open or create a new page
+
+clic [EDIT] to change color, size, tool or shape
+
+clic [HELP] to hide the help menu
+
+creators :
+camille.erades@epitech.eu
+thomas.hildt@epitech.eu
